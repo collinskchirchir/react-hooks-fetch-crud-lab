@@ -20,10 +20,12 @@ function App() {
     setQuestions(updatedQs)
   }
 
+  
+
   return (
     <main>
       <AdminNavBar onChangePage={setPage} />
-      {page === "Form" ? <QuestionForm onAddQuestion={handleAddQuestion}/> : <QuestionList questions={questions}/>}
+      {page === "Form" ? <QuestionForm onAddQuestion={handleAddQuestion}/> : <QuestionList questions={questions} setQuestions={setQuestions}/>}
     </main>
   );
 }

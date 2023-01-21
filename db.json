@@ -65,61 +65,6 @@
         "controlled"
       ],
       "correctIndex": 1
-    },
-    {
-      "prompt": "How old are you?",
-      "answers": [
-        "10",
-        "15",
-        "20",
-        "25"
-      ],
-      "correctIndex": "1",
-      "id": 7
-    },
-    {
-      "prompt": "What did you eat for lunch",
-      "answers": [
-        "Githeri",
-        "Pilau",
-        "Choma",
-        "Pizza"
-      ],
-      "correctIndex": "2",
-      "id": 8
-    },
-    {
-      "prompt": "What did you eat for supper",
-      "answers": [
-        "Githeri",
-        "Pilau",
-        "Choma",
-        "Pizza"
-      ],
-      "correctIndex": "2",
-      "id": 9
-    },
-    {
-      "prompt": "What did you eat for Breakfast",
-      "answers": [
-        "Githeri",
-        "Pilau",
-        "Choma",
-        "Pizza"
-      ],
-      "correctIndex": "1",
-      "id": 10
-    },
-    {
-      "prompt": "Which language are fluent in?",
-      "answers": [
-        "English",
-        "French",
-        "Spanish",
-        "Luo"
-      ],
-      "correctIndex": "3",
-      "id": 11
     }
   ]
 }
